@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Tilt } from "/Users/arnavjain/VS Code Projects/3d_portfolio/node_modules/.vite/deps/react-tilt.js";
+import { Tilt } from "/Users/arnavjain/VS Code Projects/portfolio/node_modules/.vite/deps/react-tilt.js";
 import { styles } from '../style';
 import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
