@@ -135,8 +135,8 @@ import {
       points: [
         "Developed a platform integrating Google Authentication with Google Gemini, Google Cloud, Google Sheets, and Google Forms to facilitate the matching of co-founders and pitched the concept to venture capitalists (VCs).",
         "Organized and hosted a meetup aimed at inspiring and empowering the younger generation to drive global change through innovation and collaboration.",
-        "Fostered a vibrant community by organizing events, workshops, and online forums, ensuring active participation and continuous learning opportunities for members.",
-        "Utilized analytics tools to track and measure the effectiveness of outreach efforts, making data-informed decisions to optimize engagement strategies.",
+        // "Fostered a vibrant community by organizing events, workshops, and online forums, ensuring active participation and continuous learning opportunities for members.",
+        // "Utilized analytics tools to track and measure the effectiveness of outreach efforts, making data-informed decisions to optimize engagement strategies.",
         ],
     },
     {
@@ -200,8 +200,8 @@ import {
       points: [
         "Building critial apps for buisniesses by utilizing the React Native framework as well as SwiftUI.",
         "Applying several API's to enhance the user experience and provide a seamless experience.",
-        "Implementing UI/UX design using CSS and JavaScript to improve efficiency and aethetics.",
-        "Incorporating iOS features to design and develop apps that are compatible with the latest iOS versions including the Apple Vision Pro.",
+        // "Implementing UI/UX design using CSS and JavaScript to improve efficiency and aethetics.",
+        // "Incorporating iOS features to design and develop apps that are compatible with the latest iOS versions including the Apple Vision Pro.",
       ],
     },
     {
@@ -213,8 +213,8 @@ import {
       points: [
         "Acquired proficiency in diverse programming languages and frameworks, including JavaScript and Node.js, advancing my technical expertise across the full stack development spectrum.",
         "Engaged in hands-on projects employing Agile methodologies, enhancing my collaborative skills and agility in software project management.",
-        "Collaborated on solving real-world business challenges through the development of practical software solutions,",
-        "Analyzed and implemented best practices in UI/UX design, leveraging CSS and front-end frameworks to improve user experience and interface design skills.",
+        // "Collaborated on solving real-world business challenges through the development of practical software solutions,",
+        // "Analyzed and implemented best practices in UI/UX design, leveraging CSS and front-end frameworks to improve user experience and interface design skills.",
       ],
     },  
   ];
