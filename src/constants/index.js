@@ -219,32 +219,32 @@ import {
     },  
   ];
   
-  const testimonials = [
-    {
-      testimonial:
-        "Arnav is the best",
-      name: "Mickey Mouse",
-      designation: "CEO",
-      company: "Disney",
-      image: "https://i.etsystatic.com/27481689/r/il/c68d19/3081628078/il_570xN.3081628078_123g.jpg",
-    },
-    {
-      testimonial:
-        "Arnav is my favorite developer!",
-      name: "Donald Duck",
-      designation: "COO",
-      company: "Disney",
-      image: "https://i.pinimg.com/originals/3d/ad/a7/3dada7a669c803bf5c731f6371285754.jpg",
-    },
-    {
-      testimonial:
-        "He's so funny!",
-      name: "Goofy",
-      designation: "CTO",
-      company: "Disney",
-      image: "https://i.etsystatic.com/18587196/r/il/e81445/1644563284/il_fullxfull.1644563284_6x4t.jpg",
-    },
-  ];
+  // const testimonials = [
+  //   {
+  //     testimonial:
+  //       "Arnav is the best",
+  //     name: "Mickey Mouse",
+  //     designation: "CEO",
+  //     company: "Disney",
+  //     image: "https://i.etsystatic.com/27481689/r/il/c68d19/3081628078/il_570xN.3081628078_123g.jpg",
+  //   },
+  //   {
+  //     testimonial:
+  //       "Arnav is my favorite developer!",
+  //     name: "Donald Duck",
+  //     designation: "COO",
+  //     company: "Disney",
+  //     image: "https://i.pinimg.com/originals/3d/ad/a7/3dada7a669c803bf5c731f6371285754.jpg",
+  //   },
+  //   {
+  //     testimonial:
+  //       "He's so funny!",
+  //     name: "Goofy",
+  //     designation: "CTO",
+  //     company: "Disney",
+  //     image: "https://i.etsystatic.com/18587196/r/il/e81445/1644563284/il_fullxfull.1644563284_6x4t.jpg",
+  //   },
+  // ];
   
   const projects = [
     {
@@ -375,4 +375,4 @@ import {
     // },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects, }; //testimonials };
