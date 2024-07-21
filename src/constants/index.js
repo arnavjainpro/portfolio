@@ -127,7 +127,7 @@ import {
   
   const experiences = [
     {
-      title: "Outreach Manager",
+      title: "VP Digital Transformation",
       company_name: "Kyroz",
       icon: kyroz,
       iconBg: "#FFFFFF",
