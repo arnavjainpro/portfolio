@@ -329,7 +329,7 @@ import {
         },
       ],
       image: chatqa,
-      source_code_link: "https://github.com/arnavjainpro/Arnav-Jain-Portfolio/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/qachatbot/blob/main/README.md",
     },
     {
       name: "Neural Network",
@@ -350,7 +350,7 @@ import {
         },
       ],
       image: neural,
-      source_code_link: "https://github.com/arnavjainpro/Arnav-Jain-Portfolio/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/neural_network/blob/main/README.md",
     },
     // {
     //   name: "Its the Mickey Mouse Clubhouse! Come inside its fun inside! Its the Mickey Mouse Clubhouse",
