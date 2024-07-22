@@ -81,7 +81,7 @@ const Works = () => {
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
           The following projects illustrate my skills as a software developer. 
-          Each project has a breif description and a link to the repositories with detailed descriptions about it. 
+          Each project has a brief description and a link to the repositories with detailed descriptions about it. 
           It showcases my capabilities as an engineer as well as accomplishments in the field of software development highlighting the various technologies I've worked with as well as solving critical real-world problems. 
         </motion.p>
       </div>

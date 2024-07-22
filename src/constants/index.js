@@ -308,7 +308,7 @@ import {
         },
       ],
       image: personal,
-      source_code_link: "https://github.com/arnavjainpro/Arnav-Jain-Portfolio/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/portfolio/blob/main/README.md",
     },
     {
       name: "Gemni Chat Bot",
