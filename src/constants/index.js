@@ -157,7 +157,7 @@ import {
       company_name: "Texas A&M University",
       icon: StuRe,
       iconBg: "#E6DEDD",
-      date: "January 2024 - Present",
+      date: "January 2024 - May 2024",
       points: [
         "Investigated advanced data analysis techniques for predictive modeling, applying various statistical tools and computational frameworks to interpret complex datasets.",
         "Conducted in-depth research on machine learning optimization, utilizing state-of-the-art algorithms to enhance computational efficiency and accuracy.",
@@ -170,7 +170,7 @@ import {
       company_name: "Aggies & Mentors",
       icon: mentors,
       iconBg: "#ffffff",
-      date: "September 2023 - Present",
+      date: "September 2023 - May 2024",
       points: [
         "Strengthened mentor relations, enhanced risk management, and spearheaded recruitment to refine the mentorship process.",
         "Expanded professional networks, forged strategic alliances, and facilitated team growth, fostering a unified and energetic workplace.",
@@ -183,12 +183,12 @@ import {
       company_name: "Texas A&M University",
       icon: WebDev,
       iconBg: "#E6DEDD",
-      date: "June 2023 - Present",
+      date: "June 2023 - May 2024",
       points: [
         "Crafting and sustaining web applications leveraging React.js and complementary technologies.",
-        "Uniting with multidisciplinary teams, encompassing designers, product leaders, and developers, to produce superior-quality deliverables.",
+        "Streamlining user interfaces and optimizing application performance to ensure an engaging and efficient end-user experience."
+        // "Uniting with multidisciplinary teams, encompassing designers, product leaders, and developers, to produce superior-quality deliverables.",
         // "Executing adaptive designs to guarantee a consistent user experience across various web browsers.",
-        // "Streamlining user interfaces and optimizing application performance to ensure an engaging and efficient end-user experience.",
       ],
     },
     {
@@ -196,7 +196,7 @@ import {
       company_name: "Texas A&M University",
       icon: apple,
       iconBg: "#000000",
-      date: "June 2023 - Present",
+      date: "June 2023 - May 2024",
       points: [
         "Building critial apps for buisniesses by utilizing the React Native framework as well as SwiftUI.",
         "Applying several API's to enhance the user experience and provide a seamless experience.",
