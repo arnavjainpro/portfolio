@@ -135,7 +135,7 @@ import {
       points: [
         "Developed a platform integrating Google Authentication with Google Gemini, Google Cloud, Google Sheets, and Google Forms to facilitate the matching of co-founders and pitched the concept to venture capitalists (VCs).",
         "Organized and hosted a meetup aimed at inspiring and empowering the younger generation to drive global change through innovation and collaboration.",
-        // "Fostered a vibrant community by organizing events, workshops, and online forums, ensuring active participation and continuous learning opportunities for members.",
+        // "Fostered a community by organizing events, workshops, and online forums, ensuring active participation and continuous learning opportunities for members.",
         // "Utilized analytics tools to track and measure the effectiveness of outreach efforts, making data-informed decisions to optimize engagement strategies.",
         ],
     },
@@ -185,8 +185,8 @@ import {
       iconBg: "#E6DEDD",
       date: "June 2023 - May 2024",
       points: [
-        "Crafting and sustaining web applications leveraging React.js and complementary technologies.",
-        "Streamlining user interfaces and optimizing application performance to ensure an engaging and efficient end-user experience."
+        "Crafted and sustained web applications leveraging React.js and complementary technologies.",
+        "Streamlined user interfaces and optimized application performance to ensure an engaging and efficient end-user experience."
         // "Uniting with multidisciplinary teams, encompassing designers, product leaders, and developers, to produce superior-quality deliverables.",
         // "Executing adaptive designs to guarantee a consistent user experience across various web browsers.",
       ],
@@ -198,8 +198,8 @@ import {
       iconBg: "#000000",
       date: "June 2023 - May 2024",
       points: [
-        "Building critial apps for buisniesses by utilizing the React Native framework as well as SwiftUI.",
-        "Applying several API's to enhance the user experience and provide a seamless experience.",
+        "Built educational apps for buisniesses by utilizing the React Native framework as well as SwiftUI.",
+        "Applyed several API's to enhance the user experience and provide a seamless experience.",
         // "Implementing UI/UX design using CSS and JavaScript to improve efficiency and aethetics.",
         // "Incorporating iOS features to design and develop apps that are compatible with the latest iOS versions including the Apple Vision Pro.",
       ],
