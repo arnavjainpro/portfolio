@@ -5,6 +5,35 @@
 @tailwind utilities;
 
 
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotating-arrow {
+  animation: rotate 4s linear infinite;
+  width: 80px;
+  height: 80px;
+  display: block;
+  margin: 0 auto;
+}
+
+.arrow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #B6D7E4; 
+}
+
+.ball-spin {
+  animation: rotate 4s linear infinite;
+}
 
 * {
   margin: 0;
