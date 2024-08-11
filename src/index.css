@@ -13,15 +13,6 @@
   }
 }
 
-.canvas-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100vh; /* Adjust this based on your design needs */
-  overflow: hidden;
-}
-
 /* Resume download button style */
 .download-button {
   background-color: #B6D7E4;
