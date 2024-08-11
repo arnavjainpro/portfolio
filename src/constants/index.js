@@ -42,6 +42,10 @@ import {
       title: "Work",
     },
     {
+      id: "Resume",
+      title: "Resume",
+    },
+    {
       id: "Projects",
       title: "Projects",
     },

@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
-
-import { About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas } from "./components"; {/* Add Feedbacks after "Experience"*/}
+import { About, Contact, Experience, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
+import Resume from "./components/Resume"; 
 
 const App = () => {
   return (
@@ -12,6 +12,7 @@ const App = () => {
         </div>
         <About />
         <Experience />
+        <Resume /> 
         <Tech />
         <Works />
         {/*<Feedbacks /> */}
