@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website, an immersive digital space designed to showcase my journey and expertise as a developer. This site not only highlights my technical skills and projects but also provides an interactive experience that sets it apart from traditional portfolios. Visitors can engage with dynamic 3D models and unique animations, offering a more engaging and memorable way to explore my work. The combination of modern web technologies and creative design elements ensures a seamless and visually appealing user experience.
 
+![Portfolio](https://i.imgur.com/Ncw0Xi9.png)
 ## Key Features
 
 - **ReactJS**
