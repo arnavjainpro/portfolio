@@ -19,6 +19,7 @@ import {
     Headstarter,
     gandiva,  
     kyroz,
+    ACM,
     apple,
     WebDev,
     mentors,
@@ -29,6 +30,7 @@ import {
     threejs,
     chatqa,
     neural,
+    pdfmerger,
     
   } from "../assets";
   
@@ -131,6 +133,17 @@ import {
   
   const experiences = [
     {
+      title: "Student Researcher",
+      company_name: "ACM UTD",
+      icon: ACM,
+      iconBg: "#FFFFFF",
+      date: "September 2024 - Present",
+      points: [
+        "Researched on enhancing pneumonia segmentation in lung X-ray images using innovative preprocessing techniques to improve the accuracy and reliability of AI-based medical diagnoses.",
+        "Developed a user-friendly software tool integrating AI algorithms for radiologists, enhancing the accessibility and practicality of pneumonia detection in clinical settings.",
+        ],
+    },
+    {
       title: "VP Digital Transformation",
       company_name: "Kyroz",
       icon: kyroz,
@@ -148,7 +161,7 @@ import {
       company_name: "Gandiva",
       icon: gandiva,
       iconBg: "#82a3ca",
-      date: "June 2024 - Present",
+      date: "June 2024 - August 2024",
       points: [
         "Improved and optimized Linux environments, ensuring better performance and security.",
         "Delivered multiple presentations on cybersecurity fundamentals, focusing on topics such as kernel tuning and encryption, to prepare for the Palo Alto PCCET certification.",
@@ -345,7 +358,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "PandasI",
+          name: "Pandas",
           color: "green-text-gradient",
         },
         {
@@ -355,6 +368,27 @@ import {
       ],
       image: neural,
       source_code_link: "https://github.com/arnavjainpro/neural_network/blob/main/README.md",
+    },
+    {
+      name: "PDF Merger",
+      description:
+        "A simple yet efficient Python program designed to combine multiple PDF files in the current directory into a single output file.",
+      tags: [
+        {
+          name: "Python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "PyPDF",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Automation",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: pdfmerger,
+      source_code_link: "https://github.com/arnavjainpro/PDFMerger/blob/main/README.md",
     },
     // {
     //   name: "Its the Mickey Mouse Clubhouse! Come inside its fun inside! Its the Mickey Mouse Clubhouse",

@@ -31,6 +31,7 @@ import WebDev from "./company/WebDev.png";
 import apple from "./company/apple.png";
 import gandiva from "./company/gandiva.png";
 import kyroz from "./company/kyroz.png";
+import ACM from "./company/ACM.png";
 
 //projects
 import Inventory from "./Inventory.png";
@@ -39,6 +40,7 @@ import TBD from "./TBD.png";
 import personal from "./personal.png";
 import chatqa from "./chatqa.png";
 import neural from "./neural.png";
+import pdfmerger from "./pdfmerger.png";
 
 export {
   logo,
@@ -67,6 +69,7 @@ export {
   Headstarter,
   gandiva,
   kyroz,
+  ACM,
   WebDev,
   apple,
   Inventory,
@@ -75,4 +78,5 @@ export {
   TBD,
   chatqa,
   neural,
+  pdfmerger,
 };
