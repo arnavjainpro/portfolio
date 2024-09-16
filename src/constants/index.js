@@ -20,6 +20,7 @@ import {
     gandiva,  
     kyroz,
     ACM,
+    AIS,
     apple,
     WebDev,
     mentors,
@@ -132,6 +133,17 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Technology Officer",
+      company_name: "AIS UTD",
+      icon: AIS,
+      iconBg: "#1D2025",
+      date: "September 2024 - Present",
+      points: [
+        "Spearheaded the integration of React.js components, increasing front-end efficiency by 30% and ensuring seamless data interaction between front-end and back-end systems.",
+        "Enhanced user engagement by 25% through designing intuitive interfaces for new digital products, improving overall usability and customer satisfaction.",
+        ],
+    },
     {
       title: "Student Researcher",
       company_name: "ACM UTD",

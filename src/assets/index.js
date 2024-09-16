@@ -32,6 +32,7 @@ import apple from "./company/apple.png";
 import gandiva from "./company/gandiva.png";
 import kyroz from "./company/kyroz.png";
 import ACM from "./company/ACM.png";
+import AIS from "./company/AIS.png";
 
 //projects
 import Inventory from "./Inventory.png";
@@ -70,6 +71,7 @@ export {
   gandiva,
   kyroz,
   ACM,
+  AIS,
   WebDev,
   apple,
   Inventory,
