@@ -20,6 +20,7 @@ import {
     gandiva,  
     kyroz,
     ACM,
+    UTD,
     AIS,
     apple,
     WebDev,
@@ -133,6 +134,17 @@ import {
   ];
   
   const experiences = [
+    {
+      title: "Web Specialist",
+      company_name: "The University of Texas at Dallas",
+      icon: UTD,
+      iconBg: "#ffffff",
+      date: "October 2024 - Present",
+      points: [
+        "Deployed Python-based web-scraping using Selenium to automate data collection for websites.",
+        "Added alt-text functionality for the UTD Engineering website to make content accessible to visually impaired users.",
+        ],
+    },
     {
       title: "Technology Officer",
       company_name: "AIS UTD",
