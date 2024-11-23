@@ -33,6 +33,7 @@ import {
     chatqa,
     neural,
     pdfmerger,
+    aetheria,
     
   } from "../assets";
   
@@ -307,7 +308,7 @@ import {
         },
       ],
       image: Inventory,
-      source_code_link: "https://github.com/arnavjainpro/InventoryInsight/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/InventoryInsight",
     },
     {
       name: "STEMVERSE",
@@ -328,7 +329,7 @@ import {
         },
       ],
       image: STEM,
-      source_code_link: "https://github.com/arnavjainpro/stemverse/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/stemverse",
     },
     {
       name: "Arnav Jain Portfolio",
@@ -349,7 +350,7 @@ import {
         },
       ],
       image: personal,
-      source_code_link: "https://github.com/arnavjainpro/portfolio/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/portfolio",
     },
     {
       name: "Gemni Chat Bot",
@@ -370,7 +371,7 @@ import {
         },
       ],
       image: chatqa,
-      source_code_link: "https://github.com/arnavjainpro/qachatbot/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/qachatbot",
     },
     {
       name: "Neural Network",
@@ -391,7 +392,7 @@ import {
         },
       ],
       image: neural,
-      source_code_link: "https://github.com/arnavjainpro/neural_network/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/neural_network",
     },
     {
       name: "PDF Merger",
@@ -412,7 +413,28 @@ import {
         },
       ],
       image: pdfmerger,
-      source_code_link: "https://github.com/arnavjainpro/PDFMerger/blob/main/README.md",
+      source_code_link: "https://github.com/arnavjainpro/PDFMerger",
+    },
+    {
+      name: "Aetheria",
+      description:
+        "App businesses can utilize to locate the precise location of a vulnerability within the building.",
+      tags: [
+        {
+          name: "SwiftUI",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Swift",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: aetheria,
+      source_code_link: "https://github.com/arnavjainpro/Aetheria",
     },
     // {
     //   name: "Its the Mickey Mouse Clubhouse! Come inside its fun inside! Its the Mickey Mouse Clubhouse",

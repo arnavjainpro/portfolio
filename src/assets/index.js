@@ -43,6 +43,7 @@ import personal from "./personal.png";
 import chatqa from "./chatqa.png";
 import neural from "./neural.png";
 import pdfmerger from "./pdfmerger.png";
+import aetheria from "./aetheria.png";
 
 export {
   logo,
@@ -83,4 +84,5 @@ export {
   chatqa,
   neural,
   pdfmerger,
+  aetheria,
 };
