@@ -34,6 +34,7 @@ import {
     neural,
     pdfmerger,
     aetheria,
+    zypher,
     
   } from "../assets";
   
@@ -435,6 +436,27 @@ import {
       ],
       image: aetheria,
       source_code_link: "https://github.com/arnavjainpro/Aetheria",
+    },
+    {
+      name: "Zypher",
+      description:
+        "Sleek weather app designed to provide real-time weather updates with a visually appealing and user-friendly interface.",
+      tags: [
+        {
+          name: "SwiftUI",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Swift",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: zypher,
+      source_code_link: "https://github.com/arnavjainpro/Zypher",
     },
     // {
     //   name: "Its the Mickey Mouse Clubhouse! Come inside its fun inside! Its the Mickey Mouse Clubhouse",

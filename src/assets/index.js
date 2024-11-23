@@ -44,6 +44,7 @@ import chatqa from "./chatqa.png";
 import neural from "./neural.png";
 import pdfmerger from "./pdfmerger.png";
 import aetheria from "./aetheria.png";
+import zypher from "./zypher.png";
 
 export {
   logo,
@@ -85,4 +86,5 @@ export {
   neural,
   pdfmerger,
   aetheria,
+  zypher,
 };
