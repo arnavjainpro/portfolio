@@ -137,6 +137,17 @@ import {
   
   const experiences = [
     {
+      title: "Software Developer",
+      company_name: "ACM UTD",
+      icon: ACM,
+      iconBg: "#ffffff",
+      date: " January 2025 - Present",
+      points: [
+        "Implemented 3 front-end features and optimized back-end workflows for BSG, a membership platform serving 500+ users, boosting event participation by 25%.",
+        "Enhanced BSG platform for 500+ members by streamlining user flows, reducing signup time by 40%, and driving a 20% increase in event turnout.",
+        ],
+    },
+    {
       title: "Web Specialist",
       company_name: "The University of Texas at Dallas",
       icon: UTD,
@@ -247,19 +258,19 @@ import {
         // "Incorporating iOS features to design and develop apps that are compatible with the latest iOS versions including the Apple Vision Pro.",
       ],
     },
-    {
-      title: "Fellow",
-      company_name: "Headstarter",
-      icon: Headstarter,
-      iconBg: "#b5bbf4",
-      date: "June 2022 - August 2022",
-      points: [
-        "Acquired proficiency in diverse programming languages and frameworks, including JavaScript and Node.js, advancing my technical expertise across the full stack development spectrum.",
-        "Engaged in hands-on projects employing Agile methodologies, enhancing my collaborative skills and agility in software project management.",
-        // "Collaborated on solving real-world business challenges through the development of practical software solutions,",
-        // "Analyzed and implemented best practices in UI/UX design, leveraging CSS and front-end frameworks to improve user experience and interface design skills.",
-      ],
-    },  
+    // {
+    //   title: "Fellow",
+    //   company_name: "Headstarter",
+    //   icon: Headstarter,
+    //   iconBg: "#b5bbf4",
+    //   date: "June 2022 - August 2022",
+    //   points: [
+    //     "Acquired proficiency in diverse programming languages and frameworks, including JavaScript and Node.js, advancing my technical expertise across the full stack development spectrum.",
+    //     "Engaged in hands-on projects employing Agile methodologies, enhancing my collaborative skills and agility in software project management.",
+    //     // "Collaborated on solving real-world business challenges through the development of practical software solutions,",
+    //     // "Analyzed and implemented best practices in UI/UX design, leveraging CSS and front-end frameworks to improve user experience and interface design skills.",
+    //   ],
+    // },  
   ];
   
   // const testimonials = [
