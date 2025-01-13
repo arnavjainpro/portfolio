@@ -174,7 +174,7 @@ import {
       company_name: "ACM UTD",
       icon: ACM,
       iconBg: "#FFFFFF",
-      date: "September 2024 - Present",
+      date: "September 2024 - December 2024",
       points: [
         "Researched on enhancing pneumonia segmentation in lung X-ray images using innovative preprocessing techniques to improve the accuracy and reliability of AI-based medical diagnoses.",
         "Developed a user-friendly software tool integrating AI algorithms for radiologists, enhancing the accessibility and practicality of pneumonia detection in clinical settings.",
@@ -185,7 +185,7 @@ import {
       company_name: "Kyroz",
       icon: kyroz,
       iconBg: "#FFFFFF",
-      date: "June 2024 - Present",
+      date: "June 2024 - October 2024",
       points: [
         "Developed a platform integrating Google Authentication with Google Gemini, Google Cloud, Google Sheets, and Google Forms to facilitate the matching of co-founders and pitched the concept to venture capitalists (VCs).",
         "Organized and hosted a meetup aimed at inspiring and empowering the younger generation to drive global change through innovation and collaboration.",
