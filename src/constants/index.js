@@ -35,6 +35,7 @@ import {
     pdfmerger,
     aetheria,
     zypher,
+    BSG,
     
   } from "../assets";
   
@@ -302,88 +303,25 @@ import {
   
   const projects = [
     {
-      name: "Inventory Insight",
+      name: "BSG",
       description:
-        "iOS application that allows users to track their inventory and get insights on their spending habits.",
-      tags: [
-        {
-          name: "SwiftUI",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Xcode",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Tesseract",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: Inventory,
-      source_code_link: "https://github.com/arnavjainpro/InventoryInsight",
-    },
-    {
-      name: "STEMVERSE",
-      description:
-        "Web application for the younger audience to learn and get started with a career in STEM in a fun and interactive experience.",
+        "Web application for coders to collaborate with their peers and work on leetcode problems together.",
       tags: [
         {
           name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "HTML",
+          name: "Tailwind",
           color: "green-text-gradient",
         },
         {
-          name: "C++",
+          name: "Kafka",
           color: "pink-text-gradient",
         },
       ],
-      image: STEM,
-      source_code_link: "https://github.com/arnavjainpro/stemverse",
-    },
-    {
-      name: "Arnav Jain Portfolio",
-      description:
-        "Web application giving an insightful look into my skill set as well as depicting my work experience and personal projects.",
-      tags: [
-        {
-          name: "React",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "HTML",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Vite",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: personal,
-      source_code_link: "https://github.com/arnavjainpro/portfolio",
-    },
-    {
-      name: "Gemni Chat Bot",
-      description:
-        "Chatbot that utilizes Gemni API-Key to answer and record Q&A's for the user with up-to-date information.",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Gemni API",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Streamlit",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: chatqa,
-      source_code_link: "https://github.com/arnavjainpro/qachatbot",
+      image: BSG,
+      source_code_link: "https://github.com/acmutd/bsg",
     },
     {
       name: "Neural Network",
@@ -407,27 +345,6 @@ import {
       source_code_link: "https://github.com/arnavjainpro/neural_network",
     },
     {
-      name: "PDF Merger",
-      description:
-        "A simple yet efficient Python program designed to combine multiple PDF files in the current directory into a single output file.",
-      tags: [
-        {
-          name: "Python",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "PyPDF",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Automation",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: pdfmerger,
-      source_code_link: "https://github.com/arnavjainpro/PDFMerger",
-    },
-    {
       name: "Aetheria",
       description:
         "App businesses can utilize to locate the precise location of a vulnerability within the building.",
@@ -447,6 +364,111 @@ import {
       ],
       image: aetheria,
       source_code_link: "https://github.com/arnavjainpro/Aetheria",
+    },
+    {
+      name: "Gemni Chat Bot",
+      description:
+        "Chatbot that utilizes Gemni API-Key to answer and record Q&A's for the user with up-to-date information.",
+      tags: [
+        {
+          name: "Python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Gemni API",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Streamlit",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: chatqa,
+      source_code_link: "https://github.com/arnavjainpro/qachatbot",
+    },
+    {
+      name: "STEMVERSE",
+      description:
+        "Web application for the younger audience to learn and get started with a career in STEM in a fun and interactive experience.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "C++",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: STEM,
+      source_code_link: "https://github.com/arnavjainpro/stemverse",
+    },
+    {
+      name: "Inventory Insight",
+      description:
+        "iOS application that allows users to track their inventory and get insights on their spending habits.",
+      tags: [
+        {
+          name: "SwiftUI",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Xcode",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Tesseract",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: Inventory,
+      source_code_link: "https://github.com/arnavjainpro/InventoryInsight",
+    },
+    {
+      name: "Arnav Jain Portfolio",
+      description:
+        "Web application giving an insightful look into my skill set as well as depicting my work experience and personal projects.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Vite",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: personal,
+      source_code_link: "https://github.com/arnavjainpro/portfolio",
+    },
+    {
+      name: "PDF Merger",
+      description:
+        "A simple yet efficient Python program designed to combine multiple PDF files in the current directory into a single output file.",
+      tags: [
+        {
+          name: "Python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "PyPDF",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Automation",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: pdfmerger,
+      source_code_link: "https://github.com/arnavjainpro/PDFMerger",
     },
     {
       name: "Zypher",

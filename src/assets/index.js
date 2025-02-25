@@ -45,6 +45,7 @@ import neural from "./neural.png";
 import pdfmerger from "./pdfmerger.png";
 import aetheria from "./aetheria.png";
 import zypher from "./zypher.png";
+import BSG from "./BSG.png";
 
 export {
   logo,
@@ -87,4 +88,5 @@ export {
   pdfmerger,
   aetheria,
   zypher,
+  BSG,
 };
