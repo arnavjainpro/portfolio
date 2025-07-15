@@ -17,14 +17,21 @@ const ProjectCard = ({
 }) => {
   return (
     
-    <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+    <motion.div 
+      variants={fadeIn("up", "spring", index * 0.5, 0.75)}
+      initial="hidden"
+      animate="show"
+      className="w-full"
+    >
       <Tilt
         options={{
           max: 45,
           scale: 1,
           speed: 450,
+          glare: false,
+          "max-glare": 0
         }}
-        className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full shadow-card' //adds the blue shadow to the card
+        className='bg-tertiary p-4 sm:p-5 rounded-2xl w-full shadow-card min-h-[300px]' //adds the blue shadow to the card
       >
         <div className='relative w-full h-[230px]'>
           <img
@@ -69,7 +76,11 @@ const ProjectCard = ({
 
 const Works = () => {
   return (
-    <>
+    <motion.div
+      initial="hidden"
+      animate="show"
+      className="w-full"
+    >
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} `}>My work</p>
         <h2 className={`${styles.sectionHeadText}`}>Projects</h2>
@@ -86,12 +97,12 @@ const Works = () => {
         </motion.p>
       </div>
 
-      <div className='mt-20 flex flex-wrap gap-7'>
+      <div className='mt-20 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7 w-full overflow-visible'>
         {projects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
       </div>
-    </>
+    </motion.div>
   );
 };
 
