@@ -46,6 +46,7 @@ import pdfmerger from "./pdfmerger.png";
 import aetheria from "./aetheria.png";
 import zypher from "./zypher.png";
 import BSG from "./BSG.png";
+import OneFace from "./OneFace.png";
 
 export {
   logo,
@@ -89,4 +90,5 @@ export {
   aetheria,
   zypher,
   BSG,
+  OneFace,
 };
