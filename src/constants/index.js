@@ -36,6 +36,7 @@ import {
     aetheria,
     zypher,
     BSG,
+    OneFace,
     
   } from "../assets";
   
@@ -303,6 +304,27 @@ import {
   
   const projects = [
     {
+      name: "OneFace",
+      description:
+        "Facial recognition system that identifies and matches users in real time through a seamless web interface.",
+      tags: [
+        {
+          name: "Lambda",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Rekognition",
+          color: "green-text-gradient",
+        },
+        {
+          name: "DynamoDB",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: OneFace,
+      source_code_link: "https://github.com/acmutd/bsg",
+    },
+    {
       name: "BSG",
       description:
         "Web application for coders to collaborate with their peers and work on leetcode problems together.",
@@ -326,7 +348,7 @@ import {
     {
       name: "Neural Network",
       description:
-        "A Neural Network that scans hand-written text and interprets the writing with 95% accuracy",
+        "A Neural Network that scans hand-written text and intelligently interprets the writing with 95% accuracy",
       tags: [
         {
           name: "Python",
