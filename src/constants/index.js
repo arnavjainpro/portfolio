@@ -37,6 +37,8 @@ import {
     zypher,
     BSG,
     OneFace,
+    KTP,
+    HACKAI,
     
   } from "../assets";
   
@@ -409,6 +411,48 @@ import {
       source_code_link: "https://github.com/arnavjainpro/qachatbot",
     },
     {
+      name: "HACKAI",
+      description:
+        "Website built for HackAI-25 to showcase event details, schedule, and tracks with responsive React and Tailwind components.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: HACKAI,
+      source_code_link: "https://github.com/arnavjainpro/stemverse",
+    },
+    {
+      name: "KTP Website",
+      description:
+        "A responsive, full-stack website built for Kappa Theta Pi to manage events, member profiles, and attendance.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Supabase",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: KTP,
+      source_code_link: "https://github.com/arnavjainpro/stemverse",
+    },
+    {
       name: "STEMVERSE",
       description:
         "Web application for the younger audience to learn and get started with a career in STEM in a fun and interactive experience.",
@@ -422,7 +466,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "C++",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],

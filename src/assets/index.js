@@ -47,6 +47,8 @@ import aetheria from "./aetheria.png";
 import zypher from "./zypher.png";
 import BSG from "./BSG.png";
 import OneFace from "./OneFace.png";
+import KTP from "./KTP.png";
+import HACKAI from "./HACKAI.png";
 
 export {
   logo,
@@ -91,4 +93,6 @@ export {
   zypher,
   BSG,
   OneFace,
+  KTP,
+  HACKAI,
 };
