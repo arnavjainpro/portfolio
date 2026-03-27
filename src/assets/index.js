@@ -36,6 +36,11 @@ import AIS from "./company/AIS.png";
 import UTD from "./company/UTD.png";
 
 //projects
+import emi from "./EMI.png";
+import medchain from "./Medchain.png";
+import aura from "./AURA.png";
+import lapsynk from "./LapSynk.png";
+import rxbridge from "./RxBridge.png";
 import Inventory from "./Inventory.png";
 import STEM from "./STEM.png";
 import TBD from "./TBD.png";
@@ -82,6 +87,11 @@ export {
   AIS,
   WebDev,
   apple,
+  emi,
+  medchain,
+  aura,
+  lapsynk,
+  rxbridge,
   Inventory,
   STEM,
   personal,

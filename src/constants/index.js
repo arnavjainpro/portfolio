@@ -25,6 +25,11 @@ import {
     apple,
     WebDev,
     mentors,
+    emi,
+    medchain,
+    aura,
+    lapsynk,
+    rxbridge,
     Inventory,
     STEM,
     personal,
@@ -305,6 +310,111 @@ import {
   // ];
   
   const projects = [
+    {
+      name: "RxBridge",
+      description:
+        "AI-powered pharmacy platform automating drug shortage monitoring and suggesting therapeutic alternatives.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "FastAPI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Gemini API",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: rxbridge,
+      source_code_link: "https://github.com/arnavjainpro/HackRice",
+    },
+    {
+      name: "EMI",
+      description:
+        "Emergency Medical Intake system with AI voice interface and blockchain-based verification.",
+      tags: [
+        {
+          name: "Next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Blockchain",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: emi,
+      source_code_link: "https://github.com/arnavjainpro/emi",
+    },
+    {
+      name: "A.U.R.A.",
+      description:
+        "Customer service dashboard with AI-powered recommendations and integrated security features.",
+      tags: [
+        {
+          name: "Next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: aura,
+      source_code_link: "https://github.com/arnavjainpro/HACKUTD",
+    },
+    {
+      name: "MedChain",
+      description:
+        "Decentralized healthcare app on Base blockchain enabling secure prescription management.",
+      tags: [
+        {
+          name: "Next.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Solidity",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Base",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: medchain,
+      source_code_link: "https://github.com/arnavjainpro/CalHacks12.0",
+    },
+    {
+      name: "LapSynk",
+      description:
+        "Real-time telemetry visualization and comprehensive race engineering data monitoring for F1.",
+      tags: [
+        {
+          name: "TypeScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Telemetry",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: lapsynk,
+      source_code_link: "https://github.com/arnavjainpro/HackTX",
+    },
     {
       name: "OneFace",
       description:
